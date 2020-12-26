@@ -6,33 +6,28 @@ labels: bug
 assignees: ''
 ---
 
-**🐞 Bug Report Template 🐞**
----
-***
+# 🐞 Bug Report 🐞
 
-**\[ Checklist \]**
+- [ ] This is a bug, not a feature request:  
+      https://github.com/codee-club/contributors/issues/new
+- [ ] I could not find it in existing issues:  
+      https://github.com/codee-club/contributors/issues?q=is%3Aissue
 
-- [ ] This is a bug (not a [feature request](https://github.com/codee-club/contributors/issues/new?assignees=&labels=enhancement&template=feature-request-english.md&title=%5BFeature%5D+Pitch+your+awesome+idea))
-- [ ] I could not find it in [existing issues](https://github.com/codee-club/contributors/issues?q=is%3Aissue)
+*************************
 
-**\[ Summary \]**
+## ➊ Summary
+    Please give a clear and concise description of what the bug is
 
-*Clear and concise description of what the bug is*
+## ➋ Reproduction steps
+    1. Go to ...
+    2. Click on ...
+    3. Scroll down to ...
 
-**\[ Reproduction steps \]**
+## ➌ Expected behavior
+    What you expected to happen (but didn't)
 
-1. *Go to ...*
-2. *Click on ...*
-3. *Scroll down to ...*
+## ➍ Actual behavior
+    What actually happened
 
-**\[ Expected behavior \]**
-
-*What you expected to happen (but didn't)*
-
-**\[ Actual behavior \]**
-
-*What actually happened*
-
-**\[ Screenshots \]**
-
-*Screenshots/video demonstrating the issue*
+## ➎ Screenshots
+    Screenshots/video demonstrating the issue
