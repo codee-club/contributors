@@ -2,7 +2,6 @@
 
 There are 3 main ways you can contribute to improving Codee.Club:
 
-// TODO: Make all of these links!
-1. Report any bugs you discover
-2. Suggest future features
-3. Write a test-runner for an unsupported language
+1. [Report any bugs you discover](https://github.com/codee-club/contributors/issues/new)
+2. [Suggest future features](https://github.com/codee-club/contributors/issues/new)
+3. Write a test-runner for an unsupported language // TODO: docs
